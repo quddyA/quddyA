@@ -11,6 +11,8 @@
 
 -<a href="#">[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quddyA/azure-network-protocols)</a>
 
+-<a href="#">[Basic DNS Configuration & Testing](https://github.com/quddyA/Basic-DNS-Configuration-Testing)</a>
+
 - <b>Microsoft 365 Support</b>
   - <a href="#">Microsoft 365 Email Configuration & Troubleshooting</a>
   - <a href="#">Outlook Profile Repair and Mail Flow Diagnostics</a>
