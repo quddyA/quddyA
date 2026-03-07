@@ -44,7 +44,7 @@ In this project, I deployed an **Active Directory environment using Azure Virtua
 
 **Tasks Completed**
 - [Created and managed user accounts](https://github.com/quddyA/User-Account-Management/edit/main/README.md)
-- Performed password resets and login troubleshooting
+- [Performed password resets and login troubleshooting](https://github.com/quddyA/Password-Reset-and-Login-Troubleshooting/edit/main/README.md)
 - Configured DNS
 - Configured Network Security Groups (NSGs)
 - Tested network connectivity and authentication
