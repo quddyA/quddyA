@@ -1,91 +1,138 @@
-<h1>Hi, I'm Qudirat Ajibade! <br/>
-<a href="https://github.com/">IT Support Specialist</a>, 
-<a href="https://www.linkedin.com/in/qudirat-ajibade">Technical Support Professional</a>
-</h1>
+# Qudirat Ajibade - IT Support Portfolio
 
-<h2>💻 IT Support & System Administration Projects:</h2>
-
--<b> Microsoft Azure (Active Directory/ DNS Configuration) </b>
-
--<a href="#"> [Configuring On-premises Active Directory within Azure VMs](https://github.com/quddyA/ActiveDirectoryLab/edit/main/README.md) </a>
-
--<a href="#">[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quddyA/azure-network-protocols)</a>
-
--<a href="#">[Basic DNS Configuration & Testing](https://github.com/quddyA/Basic-DNS-Configuration-Testing)</a>
-
-- <b>Microsoft 365 Support</b>
-  - <a href="#">Microsoft 365 Email Configuration & Troubleshooting</a>
-  - <a href="#">Outlook Profile Repair and Mail Flow Diagnostics</a>
-
-- <b>Active Directory Administration</b>
-  - <a href="#">Active Directory User Account Management</a>
-  - <a href="#">Password Reset and User Access Troubleshooting</a>
-
-- <b>Windows System Administration</b>
-  - <a href="#">Windows 10/11 OS Installation and Workstation Configuration</a>
-  - <a href="#">Device Manager Hardware Diagnostics and Driver Troubleshooting</a>
-
-- <b>Network Troubleshooting</b>
-  - <a href="#">LAN Connectivity Troubleshooting Using TCP/IP Tools</a>
-  - <a href="#">Network Diagnostics Using Command Line Utilities</a>
-
-- <b>Remote Technical Support</b>
-  - <a href="#">Remote Desktop Troubleshooting Session</a>
-  - <a href="#">Application Installation Support via Remote Tools</a>
-
-- <b>Hardware Deployment & Peripheral Support</b>
-  - <a href="#">Workstation Deployment and System Setup</a>
-  - <a href="#">Printer Installation and Peripheral Configuration</a>
+Entry-Level IT Support Specialist with hands-on experience in troubleshooting hardware, software, Microsoft 365, and network-related issues. This repository contains my IT support labs, troubleshooting exercises, and technical projects that demonstrate real-world helpdesk scenarios and system administration tasks.
 
 
-<h2>🛠️ Technical Skills</h2>
+## About This Repository
 
-<b>Operating Systems</b>  
-Windows 10 <br> Windows 11 </br>
+This repository showcases practical IT support experience through home labs and simulations. The projects included here focus on **common helpdesk problems, Active Directory administration, Microsoft 365 troubleshooting, Windows configuration, and network diagnostics**.
 
-<b>Microsoft Technologies</b>  
-Microsoft 365 
-<br> Outlook </br>
-Active Directory 
-Microsoft Office Suite  
-
-<b>Networking</b>  
-LAN Setup 
-<br> TCP/IP Configuration </br>
-IP Address Troubleshooting 
-Network Diagnostics  
-
-<b>IT Support Tools</b>  
-Remote Desktop Tools 
-<br> Ticket Documentation</br>
-Hardware Diagnostics 
-System Configuration  
+Each project includes documentation explaining the issue, troubleshooting steps, and the solution.
 
 
-<h2>📂 Experience</h2>
+## Technical Skills
 
-<b>IT Support Intern – Ikeja Electric</b>
+### Operating Systems
+- Windows 10
+- Windows 11
 
-• Provided helpdesk and desktop support for hardware, software, and network issues  
-• Supported Microsoft 365 users including email configuration and troubleshooting  
-• Managed user accounts and password resets using Active Directory  
-• Installed and configured Windows operating systems and workstation software  
-• Deployed desktops, laptops, and peripheral devices  
-• Delivered remote support using remote access tools  
+### Microsoft Technologies
+- Microsoft 365
+- Outlook
+- Active Directory
+- Microsoft Office Suite
+
+### Networking
+- LAN setup and troubleshooting
+- TCP/IP configuration
+- IP address troubleshooting
+- Network diagnostics
+
+### IT Support Tools
+- Remote Desktop tools
+- Ticket documentation
+- Hardware diagnostics
+- System configuration
+
+---
+
+## Projects / Home Labs
+
+### Active Directory Home Lab (Azure)
+
+In this project, I deployed an **Active Directory environment using Azure Virtual Machines**.
+
+**Tasks Completed**
+- Created and managed user accounts
+- Performed password resets and login troubleshooting
+- Configured DNS
+- Configured Network Security Groups (NSGs)
+- Tested network connectivity and authentication
 
 
-<b>Networking Intern – Ministry of Science and Technology</b>
+### Microsoft 365 Support Lab
 
-• Assisted with LAN setup and troubleshooting network connectivity issues  
-• Monitored network performance to ensure system reliability  
-• Supported users with network access and hardware connectivity  
-• Documented technical issues and solutions for internal reference  
+This lab focuses on troubleshooting Microsoft 365 email issues.
+
+**Tasks Completed**
+- Outlook email configuration
+- Mail flow troubleshooting
+- Outlook profile repair
+- Email diagnostics
 
 
-<h2>📫 Connect with me:</h2>
+## Windows System Administration
+
+- Installed Windows 10 and Windows 11
+- Configured user workstations
+- Diagnosed hardware issues using Device Manager
+- Installed and updated drivers
+
+### Helpdesk Ticket Simulation
+
+- Outlook not sending emails  
+- User unable to log in  
+- Printer not responding  
+
+**Skills Practiced**
+- Troubleshooting user issues
+- Diagnosing system problems
+- Documenting solutions similar to a helpdesk ticket workflow
 
 
+## Network Troubleshooting
 
-[LinkedIn](https://www.linkedin.com/in/qudirat-ajibade)
-<br> [Email](ajibadequdirat0@gmail.com) </br>  
-Location: Lagos, Nigeria
+- Diagnosed LAN connectivity issues
+- Used tools such as:
+  - `ping`
+  - `ipconfig`
+  - `tracert`
+- Tested IP configuration and network communication
+
+---
+
+## Hardware Deployment & Peripheral Support
+
+- Workstation deployment and configuration
+- Printer installation and troubleshooting
+- Peripheral device configuration
+
+
+## Professional Experience
+
+### IT Support Intern  
+**Ikeja Electric – Lagos, Nigeria**
+
+- Provided helpdesk and desktop support for hardware, software, and network issues
+- Assisted Microsoft 365 users with email configuration and troubleshooting
+- Managed user accounts and password resets using Active Directory
+- Installed and configured Windows operating systems
+- Deployed desktops, laptops, and peripherals
+- Provided remote technical support
+
+---
+
+### Networking Intern  
+**Ministry of Science and Technology – Lagos, Nigeria**
+
+- Assisted with LAN setup and troubleshooting network connectivity
+- Monitored network performance
+- Supported users with connectivity and hardware issues
+- Documented technical issues and solutions
+
+
+Each folder contains **step-by-step documentation and screenshots of troubleshooting processes.**
+
+---
+
+## Contact
+
+Location: Lagos, Nigeria  
+
+LinkedIn: (Add your LinkedIn link)  
+Email: (Add your email)
+
+---
+
+Thank you for reviewing my IT Support portfolio.
+
