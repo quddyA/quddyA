@@ -9,7 +9,7 @@
 
 -<a href="#"> [Configuring On-premises Active Directory within Azure VMs](https://github.com/quddyA/ActiveDirectoryLab/edit/main/README.md) </a>
 
--<a href="#">[Network Security Groups (NSGs) and Inspecting Network Protocols]</a>
+-<a href="#">[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/quddyA/azure-network-protocols)</a>
 
 - <b>Microsoft 365 Support</b>
   - <a href="#">Microsoft 365 Email Configuration & Troubleshooting</a>
