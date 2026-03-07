@@ -43,7 +43,7 @@ Each project includes documentation explaining the issue, troubleshooting steps,
 In this project, I deployed an **Active Directory environment using Azure Virtual Machines**.
 
 **Tasks Completed**
-- Created and managed user accounts
+- [Created and managed user accounts](https://github.com/quddyA/User-Account-Management/edit/main/README.md)
 - Performed password resets and login troubleshooting
 - Configured DNS
 - Configured Network Security Groups (NSGs)
