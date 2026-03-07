@@ -70,7 +70,7 @@ This lab focuses on troubleshooting Microsoft 365 email issues.
 
 ### Helpdesk Ticket Simulation
 
-- Outlook not sending emails  
+- [Outlook not sending emails](https://github.com/quddyA/Helpdesk-Ticket-Simulation/edit/main/README.md)  
 - User unable to log in  
 - Printer not responding  
 
