@@ -50,7 +50,7 @@ In this project, I deployed an **Active Directory environment using Azure Virtua
 - [Tested network connectivity and authentication](https://github.com/quddyA/Network-Connectivity-and-Authentication-Testing/blob/main/README.md)
 
 
-### Microsoft 365 Support Lab
+[ Microsoft 365 Support Lab](https://github.com/quddyA/microsoft-365-email-troubleshooting-lab/blob/main/README.md)
 
 This lab focuses on troubleshooting Microsoft 365 email issues.
 
