@@ -47,7 +47,7 @@ In this project, I deployed an **Active Directory environment using Azure Virtua
 - [Performed password resets and login troubleshooting](https://github.com/quddyA/Password-Reset-and-Login-Troubleshooting/edit/main/README.md)
 - [Configured DNS](https://github.com/quddyA/-DNS-Configuration-in-Active-Directory-Lab/edit/main/README.md)
 - [Configured Network Security Groups (NSGs)](https://github.com/quddyA/Network-Security-Group-Configuration-/blob/main/README.md)
-- Tested network connectivity and authentication
+- [Tested network connectivity and authentication](https://github.com/quddyA/Network-Connectivity-and-Authentication-Testing/blob/main/README.md)
 
 
 ### Microsoft 365 Support Lab
