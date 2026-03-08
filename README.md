@@ -55,7 +55,7 @@ In this project, I deployed an **Active Directory environment using Azure Virtua
 This lab focuses on troubleshooting Microsoft 365 email issues.
 
 **Tasks Completed**
-- Outlook email configuration
+- [Outlook email configuration](https://github.com/quddyA/outlook-email-configuration/blob/main/README.md)
 - Mail flow troubleshooting
 - Outlook profile repair
 - Email diagnostics
