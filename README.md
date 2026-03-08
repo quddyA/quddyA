@@ -56,7 +56,7 @@ This lab focuses on troubleshooting Microsoft 365 email issues.
 
 **Tasks Completed**
 - [Outlook email configuration](https://github.com/quddyA/outlook-email-configuration/blob/main/README.md)
-- Mail flow troubleshooting
+- [Mail flow troubleshooting](https://github.com/quddyA/Mail-Flow-Troubleshooting/blob/main/README.md)
 - Outlook profile repair
 - Email diagnostics
 
