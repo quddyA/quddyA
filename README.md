@@ -5,7 +5,9 @@ Entry-Level IT Support Specialist with hands-on experience in troubleshooting ha
 
 ## About This Repository
 
-This repository showcases practical IT support experience through home labs and simulations. The projects included here focus on **common helpdesk problems, Active Directory administration, Microsoft 365 troubleshooting, Windows configuration, and network diagnostics**.
+Entry-level IT Support professional with hands-on experience troubleshooting hardware, software, and network issues in enterprise environments. Experienced supporting Windows systems, Microsoft 365 users, and Active Directory environments while providing technical support to end users.
+
+This GitHub profile showcases IT support labs, troubleshooting projects, and system administration exercises designed to simulate real-world helpdesk scenarios.
 
 Each project includes documentation explaining the issue, troubleshooting steps, and the solution.
 
@@ -39,8 +41,7 @@ Each project includes documentation explaining the issue, troubleshooting steps,
 ## Projects / Home Labs
 
 ### Active Directory Home Lab (Azure)
-
-In this project, I deployed an **Active Directory environment using Azure Virtual Machines**.
+In this project, I deployed an Active Directory environment using Azure Virtual Machines to simulate enterprise user management.
 
 **Tasks Completed**
 - [Created and managed user accounts](https://github.com/quddyA/User-Account-Management/edit/main/README.md)
@@ -52,7 +53,7 @@ In this project, I deployed an **Active Directory environment using Azure Virtua
 
 [ Microsoft 365 Support Lab](https://github.com/quddyA/microsoft-365-email-troubleshooting-lab/blob/main/README.md)
 
-This lab focuses on troubleshooting Microsoft 365 email issues.
+This lab focuses on troubleshooting Microsoft 365 email issues that commonly occur in corporate environments.
 
 **Tasks Completed**
 - [Outlook email configuration](https://github.com/quddyA/outlook-email-configuration/blob/main/README.md)
@@ -62,6 +63,9 @@ This lab focuses on troubleshooting Microsoft 365 email issues.
 
 
 ## Windows System Administration
+This lab focuses on configuring and managing Windows operating systems in a business environment.
+
+Tasks Completed
 
 - Installed Windows 10 and Windows 11
 - Configured user workstations
@@ -69,6 +73,9 @@ This lab focuses on troubleshooting Microsoft 365 email issues.
 - Installed and updated drivers
 
 ### Helpdesk Ticket Simulation
+This project simulates real helpdesk support tickets and demonstrates troubleshooting workflows.
+
+Example Tickets
 
 - [Outlook not sending emails](https://github.com/quddyA/Helpdesk-Ticket-Simulation/edit/main/README.md)  
 - User unable to log in  
@@ -82,21 +89,35 @@ This lab focuses on troubleshooting Microsoft 365 email issues.
 
 ## Network Troubleshooting
 
-- Diagnosed LAN connectivity issues
-- Used tools such as:
-  - `ping`
-  - `ipconfig`
-  - `tracert`
-- Tested IP configuration and network communication
+This lab demonstrates diagnosing LAN connectivity issues and network communication problems.
+
+Tools Used
+
+ping
+ipconfig
+tracert
+
+Tasks Completed
+
+-Tested IP configuration
+
+-Verified network communication
+
+-Diagnosed connectivity problems
 
 ---
 
 ## Hardware Deployment & Peripheral Support
 
-- Workstation deployment and configuration
-- Printer installation and troubleshooting
-- Peripheral device configuration
+This project focuses on workstation deployment and peripheral device configuration.
 
+Tasks Completed
+
+-Workstation deployment and configuration
+
+-Printer installation and troubleshooting
+
+-Peripheral device configuration
 
 ## Professional Experience
 
@@ -121,18 +142,26 @@ This lab focuses on troubleshooting Microsoft 365 email issues.
 - Documented technical issues and solutions
 
 
-Each folder contains **step-by-step documentation and screenshots of troubleshooting processes.**
+### Documentation
+
+Each project folder contains:
+
+-Step-by-step implementation
+
+-Troubleshooting procedures
+
+-Screenshots of system configuration
+
+-Diagnostic commands and solution
 
 ---
 
 ## Contact
 
 Location: Lagos, Nigeria  
+LinkedIn: https://www.linkedin.com/in/qudirat-ajibade
 
-LinkedIn: (Add your LinkedIn link)  
-Email: (Add your email)
-
----
+Email: ajibadequdirat0@gmail.com
 
 Thank you for reviewing my IT Support portfolio.
 
